@@ -5,10 +5,10 @@ require 'formula'
 
 class Protobuf < Formula
   homepage 'http://code.google.com/p/protobuf/'
-  url 'http://protobuf.googlecode.com/files/protobuf-2.5.0.tar.bz2'
-  sha1 '62c10dcdac4b69cc8c6bb19f73db40c264cb2726'
+  url 'https://github.com/google/protobuf/releases/download/v2.6.1/protobuf-2.6.1.tar.gz'
+  sha1 '375765455ad49e45e4e10364f91aaf2831d3e905'
 
-  version '2.5.0-boxen1'
+  version '2.6.1-boxen1'
 
   option :universal
 

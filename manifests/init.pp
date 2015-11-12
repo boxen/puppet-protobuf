@@ -13,6 +13,6 @@ class protobuf {
   }
 
   package { 'boxen/brews/protobuf':
-    ensure  => '2.5.0-boxen1',
+    ensure  => '2.6.1-boxen1',
   }
 }
